@@ -1,1 +1,4 @@
-# google_analytics_implementation_course
+Implementación técnica de Google Analytics
+===================
+
+![keywords](img/keywords.png)
